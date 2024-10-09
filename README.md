@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**azriel0508/azriel0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felix Azriel Elmido. I am from Maynooth University taking BSc Computer Science with Software Engineering 🏫.
 
-Here are some ideas to get you started:
+I have a huge interest in cooking, basketball, photography, guitar, and coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently aiming to improve my knowledge in computer science, especially in machine learning, AI, and cybersecurity. I want to expand my network on GitHub and also learn how I can maximise the tools provided by GitHub.
+
+- 🌱 I’m currently learning Python, HTML, and Java.
+- 👯 I’m Filipino.
+- 📫 How to reach me: felixeim (instagram) and Felix Elmido (facebook)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I really like coding and solving problems.
+
