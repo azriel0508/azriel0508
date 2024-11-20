@@ -8,7 +8,7 @@ I am currently aiming to improve my knowledge in computer science, especially in
 
 - 🌱 I’m currently learning Python, HTML, CSS, C and Java.
 - 👯 I’m Filipino.
-- 📫 How to reach me: felixeim (instagram), Felix Elmido (LinkedIn) https://www.linkedin.com/in/felix-elmido-4a1862296/
+- 📫 How to reach me: felixeim (instagram), Felix Elmido (LinkedIn)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like coding and solving problems.
 
