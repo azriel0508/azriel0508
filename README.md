@@ -75,10 +75,10 @@ different answer each run is useless for a tool that moves your files around.
 
 ### 🛠️ Tools
 
-**Languages** — Python · Java · SQL · JavaScript/TypeScript
-**Backend** — Flask · Spring Boot · SQLAlchemy · REST APIs · OAuth 2.0
-**Data** — PostgreSQL/PostGIS · Microsoft SQL · SQLite
-**Infra** — Linux · Git · GitHub Actions · Azure App Service · Railway
+**Languages** - Python · Java · SQL · JavaScript/TypeScript
+**Backend** - Flask · Spring Boot · SQLAlchemy · REST APIs · OAuth 2.0
+**Data** - PostgreSQL/PostGIS · Microsoft SQL · SQLite
+**Infra** - Linux · Git · GitHub Actions · Azure App Service · Railway
 
 ---
 
