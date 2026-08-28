@@ -1,14 +1,36 @@
-## Hi there 👋
+# Hi, I'm Felix 👋
 
-My name is Felix Azriel Elmido. I am from Maynooth University taking BSc Computer Science with Software Engineering 🏫.
+Third-year Computer Science student at Maynooth University, **currently looking
+for a software engineering internship or placement for 2027.**
 
-I have a huge interest in cooking, basketball, photography, guitar, and coding!
+I like backend work — APIs, databases, and figuring out why something is
+actually slow rather than guessing.
 
-I am currently aiming to improve my knowledge in computer science, especially in machine learning, AI, and cybersecurity. I want to expand my network on GitHub and also learn how I can maximise the tools provided by GitHub.
+### What I've built
 
-- 🌱 I’m currently learning Python, HTML, C, and Java.
-- 👯 I’m Filipino.
-- 📫 How to reach me: felixeim (instagram), Felix Elmido (LinkedIn)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like coding and solving problems.
+**SMT Downtime & OEE Tracker** — Abbott Diabetes Care
+Sole developer on a production monitoring system now running on the factory
+floor. Python/Flask backend, 12-table Azure SQL schema, live drill-down
+dashboard, deployed to Azure App Service with GitHub Actions. Replaced a
+hand-filled Excel workbook used across three production lines.
 
+**Location Recommender** — mentored by Microsoft Ireland
+Six-person team, Spring Boot REST API with a React Native client and
+PostgreSQL/PostGIS. I owned authentication: Microsoft Entra External ID with
+the OAuth 2.0 PKCE flow and JWT validation.
+
+**Worship Service Automation**
+Python service on Railway that automates weekly AV workflows for a 1,000+
+member community. Running unattended in production since launch.
+
+### Tools
+
+Python · Java · Flask · Spring Boot · PostgreSQL · Microsoft SQL · REST APIs
+· OAuth 2.0 · Linux · Git · Azure · GitHub Actions
+
+### Also
+
+I tutor Java at Maynooth's CS Centre, and I'm working through algorithm
+problems most days — those are in `neetcode-submissions`.
+
+📫 felix.elmido27@gmail.com · [LinkedIn](https://www.linkedin.com/in/felix-azriel-elmido-4a1862296/)
