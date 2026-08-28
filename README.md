@@ -10,7 +10,7 @@ work, which turns out to be a good teacher.
 
 ---
 
-### 🏭 SMT Downtime & OEE Tracker — Abbott Diabetes Care
+### 🏭 SMT Downtime & OEE Tracker - Abbott Diabetes Care
 *Python · Flask · Azure SQL · Chart.js · Power BI · Azure App Service*
 
 Sole developer on a production monitoring system now running on the factory floor.
@@ -26,16 +26,16 @@ come directly from machine counter readings.
 - Live drill-down dashboard: factory overview → line → machine, with traffic-light
   thresholds
 - Cut page loads from 2.7s by reducing database round-trips from 8 connections to 1
-- Enforced quality workflow — unscheduled downtime locks a machine until a technician
+- Enforced quality workflow - unscheduled downtime locks a machine until a technician
   logs a root cause, validated server-side so no step can be skipped
 - Deployed via GitHub Actions CI/CD, with a 20-page handover pack for the enterprise
   IT team
 
-*Private repository — happy to walk through the architecture.*
+*Private repository - happy to walk through the architecture.*
 
 ---
 
-### 📍 Location Recommender — mentored by Microsoft Ireland
+### 📍 Location Recommender - mentored by Microsoft Ireland
 *Spring Boot · React Native · PostgreSQL/PostGIS · Microsoft Entra ID*
 
 A social location-review app built by a team of six over four months, working in
@@ -58,7 +58,7 @@ A command-line tool that clears out messy directories on its own. It reads a sho
 preview of each file, works out what the file actually is, generates sensible folder
 categories, and moves everything into place.
 
-- Classifies by **content**, not filename — so `doc1.pdf` and `untitled(3).docx`
+- Classifies by **content**, not filename - so `doc1.pdf` and `untitled(3).docx`
   still land in the right folder
 - Generates the category structure from what it finds, rather than sorting into
   fixed buckets
@@ -66,7 +66,7 @@ categories, and moves everything into place.
 - Dry-run mode to preview the moves before anything is touched
 
 Built it because my own Downloads folder was unusable. The interesting part wasn't
-the API call — it was making the output *reproducible*, since a model that gives a
+the API call, it was making the output *reproducible*, since a model that gives a
 different answer each run is useless for a tool that moves your files around.
 
 **[→ Repository](https://github.com/azriel0508/AI-File-Sorter)**
