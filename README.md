@@ -3,7 +3,7 @@
 Third-year Computer Science student at Maynooth University, **currently looking
 for a software engineering internship or placement for 2027.**
 
-I like backend work — APIs, databases, and figuring out why something is
+I like backend work, APIs, databases, and figuring out why something is
 actually slow rather than guessing.
 
 ### What I've built
