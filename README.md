@@ -3,7 +3,7 @@
 Third-year Computer Science student at Maynooth University,
 **currently looking for a software engineering internship or placement for 2027.**
 
-I'm drawn to backend work — APIs, databases, and figuring out why something is
+I'm drawn to backend work, APIs, databases, and figuring out why something is
 actually slow rather than guessing at it. Most of what I've enjoyed building has
 been for people who had no interest in the software itself and just needed it to
 work, which turns out to be a good teacher.
